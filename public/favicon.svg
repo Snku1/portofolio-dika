@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <!-- Neo-Brutalist Shadow -->
+  <rect x="10" y="10" width="82" height="82" rx="18" fill="#183153" />
+  <!-- Neo-Brutalist Main Box -->
+  <rect x="6" y="6" width="82" height="82" rx="18" fill="#FFD43B" stroke="#183153" stroke-width="6" />
+  <!-- Letter A -->
+  <text x="47" y="68" font-family="Arial, 'Segoe UI', Impact, sans-serif" font-weight="900" font-size="58" fill="#183153" text-anchor="middle">A</text>
+</svg>
